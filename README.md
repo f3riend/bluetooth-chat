@@ -9,4 +9,4 @@ A simple chat system that works with Bluetooth, this is the basis of a larger pr
 pip install icecream
 ```
 
-**NOTE:** You don't necessarily have to download it, you can replace the **ic* function with print.
+**NOTE:** You don't necessarily have to download it, you can replace the **ic** function with print.
