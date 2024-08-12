@@ -6,7 +6,9 @@ A simple chat system that works with Bluetooth, this is the basis of a larger pr
 
 **Server:**
 ![Server](https://github.com/f3riend/bluetooth-chat/blob/main/server.png)
+
 <hr>
+
 ![Client](https://github.com/f3riend/bluetooth-chat/blob/main/client.png)
 
 
